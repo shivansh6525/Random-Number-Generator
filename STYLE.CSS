@@ -1,0 +1,35 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;;
+}
+
+#mybutton{
+    font-size: 4em;
+    padding: 5px 25px;
+    border-radius: 25px;
+   
+}
+
+.mybutton:hover{
+    background-color: #000000;
+}
+
+#mylabel{
+    font-size: 10em;
+    color: brown;
+
+}
+
+
+
+
+buttons{
+    background-color: #bd4545;
+    border-radius: 25px;
+    cursor: pointer;
+    transition: background-color 0.25s;
+}
+
+.buttons:hover{
+    background-color: #00bbff;
+}
